@@ -1,0 +1,8 @@
+#Posts {
+    text-align: center;
+    border: black solid 1px;
+    grid-column: 1/9;
+    grid-row: 6/13;
+    margin: 3%;
+    padding-bottom: 4%;
+}
